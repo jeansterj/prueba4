@@ -48,3 +48,10 @@ Realice cambios en la rama y realice un commit.
 
 Volvi a la rama principal y aplique el cambio de la rama al main.
 
+Conflictos 
+
+Al momento de realizar el comit, el sistema detecta el conflicto ya que 2 se personas han modificado el mismo archivo.
+Seleccionamos a abrir el conflicto para comprobarlo. 
+Se selecciona la opcion de conservar el cambio que se desee.
+Se vuelve a hacer el comit y ha sincronizar el cambio.
+
